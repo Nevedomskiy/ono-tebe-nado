@@ -1,1 +1,60 @@
-/* место для вашего кода */
+/* Шрифты */
+@import url(../fonts/fonts.css);
+
+/* Глобальные стили */
+@import url(../styles/global.css);
+
+/* Стили header */
+@import url(./components/header/header.css);
+@import url(./components/header/__navbar/header__navbar.css);
+@import url(./components/header/__logo/header__logo.css);
+
+/* Стили navbar */
+@import url(./components/nabvar/__list/navbar__list.css);
+@import url(./components/nabvar/__item/navbar__item.css);
+@import url(./components/nabvar/__item/_no-list-style/navbar__item_no-list-style.css);
+@import url(./components/nabvar/__list/_no-style-list/navbar__list_no-style-list.css);
+
+/* Стили header */
+@import url(./components/header/__contacts/header__contacts.css);
+@import url(./components/contacts/__item/contacts__item.css);
+@import url(./components/contacts/contacts.css);
+
+/* Стили cover */
+@import url(./components/cover/cover.css);
+@import url(./components/cover/__list/cover__list.css);
+@import url(./components/cover/__item/_center/cover__item_center.css);
+@import url(./components/cover/__item/cover__item.css);
+@import url(./components/cover/__item/_end/cover__item_end.css);
+@import url(./components/cover/__bet-text/cover__bet-text.css);
+@import url(./components/cover/__bet/cover__bet.css);
+@import url(./components/cover/__bet-button/cover__bet-button.css);
+
+/* Стили main */
+@import url(./components/main/__lots/main__lots.css);
+
+/* Стили lots */
+@import url(./components/lots/__header/lots__header.css);
+@import url(./components/lots/__cards/lots__cards.css);
+@import url(./components/lots/__more-info/lots__more-info.css);
+
+/* Стили card */
+@import url(./components/card/card.css);
+@import url(./components/card/__text/card__text.css);
+@import url(./components/card/__title/card__title.css);
+@import url(./components/card/_agent/card_agent.css);
+@import url(./components/card/__img/card__img.css);
+
+/* Стили about */
+@import url(./components/about/about.css);
+@import url(./components/about/__title/about__title.css);
+@import url(./components/about/__texts/about__texts.css);
+@import url(./components/about/__logo/about__logo.css);
+@import url(./components/about/__img/about__img.css);
+
+/* Стили footer */
+@import url(./components/footer/footer.css);
+@import url(./components/footer/__massagers/footer__massagers.css);
+
+/* Стили messager */
+@import url(./components/messager/__img/messager__img.css);

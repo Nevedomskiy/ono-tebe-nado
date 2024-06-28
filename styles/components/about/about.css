@@ -1,0 +1,7 @@
+.about {
+	display: grid;
+	gap: 0 72px;
+	align-items: center;
+	grid-template-columns: 240px 693px;
+	padding: 42px 24px 184px 71px;
+}

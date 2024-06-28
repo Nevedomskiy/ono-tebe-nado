@@ -1,0 +1,7 @@
+.lots__cards {
+	display: grid;
+	grid-template-columns: 1fr 1fr 1fr;
+	margin-bottom: 28px;
+	gap: 0 25px;
+	list-style: none;
+}

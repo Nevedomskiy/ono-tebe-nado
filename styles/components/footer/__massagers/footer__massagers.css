@@ -1,0 +1,5 @@
+.footer__massagers {
+	list-style: none;
+	display: flex;
+	gap: 0 48px;
+}

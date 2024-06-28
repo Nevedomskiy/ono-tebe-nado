@@ -1,0 +1,5 @@
+.navbar__list_no-style-list {
+	list-style: none;
+	flex-direction: column;
+	justify-items: center;
+}
